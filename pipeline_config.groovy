@@ -1,0 +1,4 @@
+libraries{
+    area-one
+    common
+}
