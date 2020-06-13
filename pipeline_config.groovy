@@ -1,4 +1,3 @@
 libraries{
-    area-one,
-    common
+    area-one
 }
